@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282664455631",
+    "firebase_url": "https://empleo-f7968.firebaseio.com",
+    "project_id": "empleo-f7968",
+    "storage_bucket": "empleo-f7968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282664455631:android:1fd550df0bf601e4e096ba",
+        "android_client_info": {
+          "package_name": "com.example.empleo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282664455631-ug8n404ahn078o2ogf92bcn8qaf7tue3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empleo",
+            "certificate_hash": "07d9189fe1ea404d44261bb3c6309fae23a37573"
+          }
+        },
+        {
+          "client_id": "282664455631-crrop1gkp6231urvf0rf9p95glkf4hut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF70ShiLHg91XQtR70hkXz-2n-CgFPNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282664455631-crrop1gkp6231urvf0rf9p95glkf4hut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
